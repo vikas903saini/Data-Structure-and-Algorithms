@@ -40,10 +40,6 @@
 
 Contributions are welcome! If you have optimized solutions, new problems, or better implementations, feel free to submit a pull request.
 
-## License
-
-This repository is licensed under the MIT License. See the LICENSE file for details.
-
 ---
 
 "Think twice, code once. Optimize always."**
